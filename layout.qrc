@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/layout">
+        <file>res/layout.bmp</file>
+        <file>res/logo.png</file>
+        <file>res/draw.png</file>
+        <file>res/R1lessR2.png</file>
+        <file>res/R2equalR1.png</file>
+        <file>res/R2lessR1.png</file>
+        <file>res/logo1.png</file>
+        <file>res/Formual.jpg</file>
+    </qresource>
+</RCC>
